@@ -1,6 +1,6 @@
 {
-  "name": "noble-device",
-  "version": "1.4.1",
+  "name": "@lemariva/noble-device",
+  "version": "1.4.1-1",
   "description": "A Node.js lib to abstract BLE (Bluetooth Low Energy) peripherals, uses noble",
   "main": "index.js",
   "scripts": {
@@ -31,6 +31,6 @@
     "async": "~0.7.0"
   },
   "dependencies": {
-    "noble": "^1.7.0"
+    "@lemariva/noble": "^1.9.1-1"
   }
 }
